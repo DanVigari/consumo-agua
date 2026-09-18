@@ -5,7 +5,7 @@ Programa em Python que calcula e avalia o consumo mensal de água de um imóvel,
 Projeto desenvolvido durante o curso técnico de Análise e Desenvolvimento de Sistemas (ADS), como exercício de lógica de programação.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
 
 ## 📑 Sumário
 
@@ -63,7 +63,6 @@ Com os dados validados, a estrutura `match/case` avalia o tipo de imóvel e apli
 - Conversão de tipos com `float()`
 - Estruturas condicionais `if` / `else`
 - Estrutura `match/case`
-- Validação de dados do usuário
 
 
 ## 💻 Exemplo de uso
